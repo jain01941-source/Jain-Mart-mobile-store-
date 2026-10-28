@@ -1,0 +1,6 @@
+{
+  "name": "Jain Mart Mobile Store - POS & Inventory System",
+  "description": "Professional Mobile Shop Billing, Sales, Inventory, Purchase, Customer Khata, and Profit Management System with Hindi & English support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
